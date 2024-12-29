@@ -1,4 +1,4 @@
-### Files
+### Files 📁
 
 1. **`COCO_val_annos.json`**: Annotations for vehicle damage categories.
 2. **`COCO_mul_val_annos.json`**: Annotations for vehicle parts categories.
@@ -6,7 +6,7 @@
 4. **`coco.zip`**: Compressed version of the dataset.
 5. **`script.py`**: Python script for loading and visualizing dataset annotations.
 
-## Prerequisites
+## Prerequisites ⬇️
 
 Ensure the following Python libraries are installed:
 
@@ -23,6 +23,7 @@ Install them using:
 ```bash
 pip install matplotlib pycocotools numpy scikit-image seaborn pillow tensorboard
 ```
+👍
 
 ## Setup Instructions
 
@@ -40,7 +41,7 @@ pip install matplotlib pycocotools numpy scikit-image seaborn pillow tensorboard
    python script.py
    ```
 
-## Code Overview
+## Code Overview 👓
 
 The provided script performs the following tasks:
 

@@ -1,5 +1,5 @@
 ### Files 📁
-
+ 
 1. **`COCO_val_annos.json`**: Annotations for vehicle damage categories.
 2. **`COCO_mul_val_annos.json`**: Annotations for vehicle parts categories.
 3. **`img`**: Folder containing images referenced in the JSON files.
